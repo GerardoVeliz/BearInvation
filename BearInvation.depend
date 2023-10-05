@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1694199831 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\main.cpp
+	<iostream>
+	"Menu Retro.h"
+
+1694199551 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\juego.cpp
+	<iostream>
+	"Juego.h"
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+	"Funciones.h"
+	"Nave.h"
+	"AST.h"
+	"rlutil.h"
+	"Bala.h"
+
+1694130608 c:\users\gera-\onedrive\escritorio\juego\bearinvation\juego.h
+
+1694131245 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\bala.cpp
+	<iostream>
+	<windows.h>
+	"Bala.h"
+
+1694130414 c:\users\gera-\onedrive\escritorio\juego\bearinvation\bala.h
+
+1694190089 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\helper.cpp
+	<iostream>
+	"Helper.h"
+
+1694189466 c:\users\gera-\onedrive\escritorio\juego\bearinvation\helper.h
+
+1694199321 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	<windows.h>
+	"rlutil.h"
+
+1694199567 c:\users\gera-\onedrive\escritorio\juego\bearinvation\funciones.h
+
+1694199620 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\ast.cpp
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<list>
+	<iostream>
+	"Funciones.h"
+	"AST.h"
+	"rlutil.h"
+
+1694190562 c:\users\gera-\onedrive\escritorio\juego\bearinvation\ast.h
+	"Nave.h"
+
+1694130414 c:\users\gera-\onedrive\escritorio\juego\bearinvation\nave.h
+
+1694199709 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\nave.cpp
+	<iostream>
+	<windows.h>
+	"Funciones.h"
+	<conio.h>
+	"rlutil.h"
+	"Nave.h"
+
+1694207463 source:c:\users\gera-\onedrive\escritorio\juego\bearinvation\menu retro.cpp
+	<iostream>
+	"rlutil.h"
+	"Menu retro.h"
+	"Juego.h"
+	"Funciones.h"
+
+1680995718 c:\users\gera-\onedrive\escritorio\juego\bearinvation\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1694198959 c:\users\gera-\onedrive\escritorio\juego\bearinvation\menu retro.h
+
